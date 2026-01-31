@@ -1,0 +1,7 @@
+{
+  "name": "AgroShield AI - Disease Detector",
+  "description": "An advanced AI-powered diagnostic tool for identifying leaf and poultry diseases using real-time camera analysis or image uploads. Provides expert-level treatment and prevention strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
